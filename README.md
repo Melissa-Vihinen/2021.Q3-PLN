@@ -8,4 +8,5 @@ UFABC [CMCC]
 
 ### **Aula 03 - Expressões Regulares**
 
-##### &nbsp;&nbsp;&nbsp; [2021_Q3_PLN_Notebook_01.ipynb](https://github.com/adalves-ufabc/2023.QS-PLN/blob/main/Aula%2003/2021_Q3_PLN_Notebook_01.ipynb)
+##### &nbsp;&nbsp;&nbsp; [2021_Q3_PLN_Notebook_01.ipynb](https://github.com/adalves-ufabc/2021.Q3-PLN/blob/main/Aula%2003/2021_Q3_PLN_Notebook_01.ipynb)
+
