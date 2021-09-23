@@ -34,3 +34,17 @@ UFABC [CMCC]
   
 ##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2021.Q3-PLN/tree/main/Aula%2006/dados) 
 
+### **AULA 07 - Representação de Textos**
+
+##### &nbsp;&nbsp;&nbsp; [2021_Q3_PLN_Notebook_08.ipynb](https://github.com/adalves-ufabc/2021.Q3-PLN/blob/main/Aula%2007/2021_Q3_PLN_Notebook_08.ipynb)
+  
+##### &nbsp;&nbsp;&nbsp; [2021_Q3_PLN_Notebook_09.ipynb](https://github.com/adalves-ufabc/2021.Q3-PLN/blob/main/Aula%2007/2021_Q3_PLN_Notebook_09.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2021_Q3_PLN_Notebook_10.ipynb](https://github.com/adalves-ufabc/2021.Q3-PLN/blob/main/Aula%2007/2021_Q3_PLN_Notebook_10.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2021_Q3_PLN_Notebook_11.ipynb](https://github.com/adalves-ufabc/2021.Q3-PLN/blob/main/Aula%2007/2021_Q3_PLN_Notebook_11.ipynb)
+  
+##### &nbsp;&nbsp;&nbsp; [Dados](https://github.com/adalves-ufabc/2021.Q3-PLN/tree/main/Aula%2007/dados) 
+
+
+
